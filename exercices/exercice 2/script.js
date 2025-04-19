@@ -14,7 +14,7 @@ let persons = [
 
   {
     id: 2,
-    name: "Kais",
+    name: "John",
     favColor: "Bleue",
     languages: [
       {
