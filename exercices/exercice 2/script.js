@@ -1,4 +1,4 @@
-/* let persons = [
+let persons = [
   {
     id: 1,
     name: "Oumaima",
@@ -30,4 +30,4 @@ console.log(persons[1].favColor); //=> Bleue */
 
 
 let numbers = [1, 2, 3, 4, 5];
-console.log(shuffleArray(numbers)); 
+console.log(shuffleArray(numbers));
